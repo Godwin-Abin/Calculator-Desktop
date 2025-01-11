@@ -18,8 +18,8 @@ A simple calculator application built with React and Proton Native. This app all
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Godwin-Abin/Calculator.git
-   cd Calculator
+   git clone https://github.com/Godwin-Abin/Calculator-Desktop.git
+   cd Calculator-Desktop
    ```
 
 2. Install the dependencies:
