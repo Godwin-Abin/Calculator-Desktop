@@ -14,7 +14,7 @@ class CircleButton extends Component {
       <TouchableOpacity
         style={{
           backgroundColor: this.props.backgroundColor,
-          borderRadius: 40,
+          borderRadius: 10,
           height: 80,
           width: this.props.width || 80,
           alignItems: this.props.start ? 'flex-start' : 'center',
